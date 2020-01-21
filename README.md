@@ -1,5 +1,10 @@
 [![GitHub issues](https://img.shields.io/github/issues/markbye/vlogv.git?color=green&label=vlogv&logo=logo&logoColor=red)](https://github.com/markbye/vlogv.git/issues)
 
+[![GitHub stars](https://img.shields.io/github/stars/markbye/vlogv.git)](https://github.com/markbye/vlogv.git/stargazers)
+
+[![GitHub forks](https://img.shields.io/github/forks/markbye/vlogv.git)](https://github.com/markbye/vlogv.git/network)
+
+
 # vlogv
 vue log warn log debug
 ## Project setup
