@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues/markbye/vlogv.git?color=green&label=vlogv&logo=logo&logoColor=red)](https://github.com/markbye/vlogv.git/issues)
+
 # vlogv
 vue log warn log debug
 ## Project setup
