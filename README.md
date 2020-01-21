@@ -4,6 +4,10 @@
 
 [![GitHub forks](https://img.shields.io/github/forks/markbye/vlogv.git)](https://github.com/markbye/vlogv.git/network)
 
+### git 添加项目徽章
+'''
+https://shields.io/
+'''
 
 # vlogv
 vue log warn log debug
